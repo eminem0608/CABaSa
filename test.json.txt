@@ -1,6 +1,6 @@
 {
   "versionCode": 1,
-  "updateTitle": "·¢ÏÖĞÂ°æ±¾",
-  "updateMsg": "1.ĞŞ¸´²¿·Ö»úĞÍ¼æÈİĞÔÎÊÌâ \n2.´úÂëÔö¼ÓÔÚÏßÔËĞĞ¹¦ÄÜ",
+  "updateTitle": "å‘ç°æ–°ç‰ˆæœ¬",
+  "updateMsg": "1.ä¿®å¤éƒ¨åˆ†æœºå‹å…¼å®¹æ€§é—®é¢˜ \n2.ä»£ç å¢åŠ åœ¨çº¿è¿è¡ŒåŠŸèƒ½",
   "downloadUrl": "https://raw.githubusercontent.com/hpu-spring87/ebooks/master/apk/Effective_Java_v1.0.0.apk"
 }
